@@ -9,21 +9,21 @@ Page 2) Customer submission section, display featured customer designs
 Page 3) about us, how we started, that path we took to get here, how we wish to grow in the future
 Page 4) contact information
 - Images – TBD, my partner hasn’t drawn his designs out yet, only has rough sketches.
-- Color Palette – [Link to color palette](./https://coolors.co/64113f-1b9aaa-dddbcb-f5f1e3-ffffff)
+- Color Palette – [Link to color palette](https://coolors.co/64113f-1b9aaa-dddbcb-f5f1e3-ffffff)
 - Logo - Work in progress. We are talking through a few designs but nothing has been finalized yet.
 - Navigation – in the header, next to logo. Contains links to all 4 pages
 ## Story Map
-[Link to User Story Map](./https://app.mural.co/invitation/mural/savvycodersneilpelton8226/1680125407689?sender=u5f8b7f37c41002c16de79610&key=0dd54b54-9d61-4045-a9f8-cd2bf557da54)
+[Link to User Story Map](https://app.mural.co/invitation/mural/savvycodersneilpelton8226/1680125407689?sender=u5f8b7f37c41002c16de79610&key=0dd54b54-9d61-4045-a9f8-cd2bf557da54)
 ## Research
--	[Website1](./https://www.gq.com/story/streetwear-brands-to-know)
+-	[Website1](https://www.gq.com/story/streetwear-brands-to-know)
 o	I like the descriptions of each item
 o	Dislike flow of the page, where the info is located
 o	I will be presenting the product at the top of the page so it is the first thing the customer see’s
--	[Website2](./https://us.shein.com/Men-Ink-Painting-Pattern-Jumper-p-2869569-cat-1975.html?url_from=adplasmsweater25210609020L_GPM&cid=15534601883&setid=&adid=&pf=GOOGLE&gclid=CjwKCAjw586hBhBrEiwAQYEnHTi8t1I5hjk-a3PkZC7oustvJ1EiQ_OZjB0KLFtrKNc4qCBNWWNiKxoCoc8QAvD_BwE)
+-	[Website2](https://us.shein.com/Men-Ink-Painting-Pattern-Jumper-p-2869569-cat-1975.html?url_from=adplasmsweater25210609020L_GPM&cid=15534601883&setid=&adid=&pf=GOOGLE&gclid=CjwKCAjw586hBhBrEiwAQYEnHTi8t1I5hjk-a3PkZC7oustvJ1EiQ_OZjB0KLFtrKNc4qCBNWWNiKxoCoc8QAvD_BwE)
 o	I like their navigation and being able to blow up the size of each image, as well as various angles of each item. Feedback section that allows for images of the clothing on the customer is a great idea to see what their reviews mean
 o	Dislike the color palette, the page is very boring
 o	Implement different viewing angles on my page
--	[Website3](./https://www.highsnobiety.com/p/best-japanese-clothing-brands/)
+-	[Website3](https://www.highsnobiety.com/p/best-japanese-clothing-brands/)
 o	I like how the page is clean and simple
 o	Dislike how much text is between each image
 o	I will create a feature that gives a description of the item after you click on it to view, this way the customer has to do as little scrolling as possible
@@ -32,7 +32,7 @@ o	I will create a feature that gives a description of the item after you click o
 - [Submissions Page](./SubmissionsCapstone.jpg)
 - [About Us Page](./AboutUsCapstone.jpg)
 - [Contact Page](./ContactCapstone.jpg)
-- [Flow Diagrams](./https://app.mural.co/t/savvycodersneilpelton8226/m/savvycodersneilpelton8226/1681143998707/34f1fcf24986c5896a062d86cebfc8a225391268?sender=u5f8b7f37c41002c16de79610)
+- [Flow Diagrams](https://app.mural.co/t/savvycodersneilpelton8226/m/savvycodersneilpelton8226/1681143998707/34f1fcf24986c5896a062d86cebfc8a225391268?sender=u5f8b7f37c41002c16de79610)
 ## SWOT Analysis
 ### Strengths
 -	Product is all in one place, very little space between designs. Allows for easier navigation through items
